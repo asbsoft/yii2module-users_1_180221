@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4",
         "yiisoft/yii2": "~2.0.12",
-        "asbsoft/yii2-common_2_170212": "~2.11.3",
+        "asbsoft/yii2-common_2_170212": "~2.14",
         "asbsoft/yii2module-users_0_170112": "~0.20"
     },
     "autoload": {
